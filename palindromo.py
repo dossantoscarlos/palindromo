@@ -1,6 +1,3 @@
-# Design pattern aplicados
-# SOLID
-# Object Calisthenics
 import unicodedata
 
 def verifica_palindromo(texto_processado, texto_original) -> None:
